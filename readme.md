@@ -7,9 +7,11 @@ Wut is a simple tool to help webnovels writers manage the creation and numbering
 The script will check what is written in the *master_doc.md* file. It will then split the chapters using a special balise.
 
 **Exemple:**
-> this is a chapter[space][space]
-> EOC[space][space]
-> this is another chapter
+<blockquote>
+ this is a chapter
+ EOC[space][space]
+ this is another chapter
+</blockquote>
 
 The balise EOC (end of chapter) is what allows the program to do its job, and must be placed after every (finished) chapter for it to work.
 
