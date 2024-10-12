@@ -8,8 +8,8 @@ The script will check what is written in the *master_doc.md* file. It will then 
 
 **Exemple:**
 > this is a chapter
-EOC
-this is another chapter
+> EOC
+> this is another chapter
 
 The balise EOC (end of chapter) is what allows the program to do its job, and must be placed after every (finished) chapter for it to work.
 
