@@ -9,7 +9,9 @@ The script will check what is written in the *master_doc.md* file. It will then 
 **Exemple:**
 <blockquote>
  this is a chapter
- EOC[space][space]
+ 
+ EOC
+ 
  this is another chapter
 </blockquote>
 
